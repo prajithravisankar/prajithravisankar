@@ -125,5 +125,3 @@ Hybrid AES-256 encryption model using chess-derived keys + LSB steganography.
 </p>
 
 ---
-
-<h3 align="center">✨ “Keep building. Keep shipping. Keep learning.” ✨</h3>
