@@ -64,6 +64,7 @@ Hybrid AES-256 encryption model using chess-derived keys + LSB steganography.
 | 🧱 Project | 🧠 Contribution | 🔗 Links |
 |------------|----------------|----------|
 | **AlgoVisualizer** | Fixed flicker bug & runtime crash for smoother UI/UX | [Repo](https://github.com/mahaveergurjar/AlgoVisualizer) · [PR#130](https://github.com/mahaveergurjar/AlgoVisualizer/pull/130) |
+| **AlgoVisualizer** | Fixed Bugs in Strings.jsx that was causing render issues for the strings page in the catalog | [Repo](https://github.com/mahaveergurjar/AlgoVisualizer) ·  |
 | **CLI Todo App** | Unified JSON-based task model (Node + Python) | [Repo](https://github.com/flyingSaucer87/cli-todo-app) · [PR#58](https://github.com/flyingSaucer87/cli-todo-app/pull/58) |
 | **Guestbook** | Added contributions to open source community repo | [Repo](https://github.com/OpenSource-Communities/guestbook) · [PR#855](https://github.com/OpenSource-Communities/guestbook/pull/855) |
 
