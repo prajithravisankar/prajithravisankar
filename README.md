@@ -1,5 +1,5 @@
-
 [![An image of @prajithravisankar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prajithravisankar)](https://holopin.io/@prajithravisankar)
+
 
 <!-- 🌌 PRAJITH RAVISANKAR - Stunning GitHub Profile README -->
 
