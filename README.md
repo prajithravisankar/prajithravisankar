@@ -22,6 +22,7 @@
 🧩 Passionate about **backend systems**, **AI workflows**, and **open-source engineering**.  
 🏆 **1st Place + Best Design** – CodeCrunch Hackathon 2025  
 🌍 Based in Thunder Bay, Ontario
+💼 https://prajith-portfolio1.vercel.app/
 
 ---
 
