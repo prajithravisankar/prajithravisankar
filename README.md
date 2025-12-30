@@ -34,35 +34,6 @@
 
 ---
 
-## 🏗️ Featured Projects  
-
-### 🧭 [FocusFlow](https://devpost.com/software/focusflow-gz9buj)
-🥇 *1st Place – CodeCrunch 2025*  
-Full-stack productivity app integrating Pomodoro sessions, task management, JWT auth, and Redis caching.  
-**Stack:** React • Vite • Node.js • Express • MongoDB • TailwindCSS • Redis  
-
----
-
-### 🌦️ [SafeGuard](https://devpost.com/software/safeguard-ygef8h)
-🥉 *3rd Place – SOH 2025*  
-Real-time disaster monitoring & safety platform powered by NASA EONET + OpenWeatherMap APIs.  
-**Stack:** React • Leaflet.js • Tailwind • Node.js • Express  
-
----
-
-### 🤖 [CLI AI Agent](https://github.com/prajithravisankar/CLI_AI_AGENT)
-Autonomous Python agent that scans codebases, finds bugs, and applies fixes using **Google GenAI API**.  
-**Stack:** Python • GenAI • CLI Automation • Function Calling  
-
----
-
-### ♟️ CBESS – *Chess-Based Encryption & Steganography*
-Built for Cryptography final project (Grade: 91%).  
-Hybrid AES-256 encryption model using chess-derived keys + LSB steganography.  
-**Stack:** Python • Tkinter • PyCryptodome • PIL  
-
----
-
 ## 🧩 Open Source Contributions  
 
 | 🧱 Project | 🧠 Contribution | 🔗 Links |
@@ -93,31 +64,6 @@ Hybrid AES-256 encryption model using chess-derived keys + LSB steganography.
 🏅 Selected from 800+ North American applicants  
 - Promoted AI-powered resume builder and internship platform on campus  
 - Collaborated on student engagement strategies to grow the platform’s visibility  
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prajithravisankar&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajithravisankar&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prajithravisankar&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## ⚙️ Fun Stats  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prajithravisankar&theme=radical&no-frame=true&row=1&margin-w=10">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prajithravisankar&style=flat-square&color=blue" alt="Profile Views"/>
-</p>
 
 ---
 
