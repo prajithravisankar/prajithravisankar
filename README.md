@@ -7,7 +7,9 @@
 <h3 align="center"> CS Student | Backend Developer | Open Source Contributor</h3>
 
 <p align="center">
-  <a href="mailto:pravisa1@lakeheadu.ca"><img src="https://img.shields.io/badge/Email-pravisa1@lakeheadu.ca-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pravisa1@lakeheadu.ca&su=Hello%20Prajith&body=Hi%20Prajith%2C%0A%0A" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-pravisa1@lakeheadu.ca-blue?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
   <a href="https://www.linkedin.com/in/prajithravisankar"><img src="https://img.shields.io/badge/LinkedIn-Prajith%20Ravisankar-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://www.boot.dev/u/prajithravisankar"><img src="https://img.shields.io/badge/Boot.dev-Profile-success?style=for-the-badge&logo=python"></a>
   <a href="https://github.com/prajithravisankar"><img src="https://img.shields.io/github/followers/prajithravisankar?style=for-the-badge&logo=github&label=Follow&color=black"></a>
