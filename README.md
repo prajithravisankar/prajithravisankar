@@ -11,6 +11,7 @@
   <a href="https://www.linkedin.com/in/prajithravisankar"><img src="https://img.shields.io/badge/LinkedIn-Prajith%20Ravisankar-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://www.boot.dev/u/prajithravisankar"><img src="https://img.shields.io/badge/Boot.dev-Profile-success?style=for-the-badge&logo=python"></a>
   <a href="https://github.com/prajithravisankar"><img src="https://img.shields.io/github/followers/prajithravisankar?style=for-the-badge&logo=github&label=Follow&color=black"></a>
+  <a href="https://prajith-portfolio1.vercel.app/"><img src="https://img.shields.io/static/v1?label=Portfolio+Website&message=Link&color=2ea44f&style=for-the-badge" alt="Portfolio Website - Link"></a>
 </p>
 
 ---
